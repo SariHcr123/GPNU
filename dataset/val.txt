@@ -1,0 +1,11 @@
+D:\Knowledge_distillation_Pruning_Yolov5-master/dataset/images/132826773_dbbcb117b9.jpg
+D:\Knowledge_distillation_Pruning_Yolov5-master/dataset/images/2477349551_e75c97cf4d.jpg
+D:\Knowledge_distillation_Pruning_Yolov5-master/dataset/images/2781170484_5d61835d63.jpg
+D:\Knowledge_distillation_Pruning_Yolov5-master/dataset/images/29494643_e3410f0d37.jpg
+D:\Knowledge_distillation_Pruning_Yolov5-master/dataset/images/39672681_1302d204d1.jpg
+D:\Knowledge_distillation_Pruning_Yolov5-master/dataset/images/452462677_7be43af8ff.jpg
+D:\Knowledge_distillation_Pruning_Yolov5-master/dataset/images/472288710_2abee16fa0.jpg
+D:\Knowledge_distillation_Pruning_Yolov5-master/dataset/images/509247772_2db2d01374.jpg
+D:\Knowledge_distillation_Pruning_Yolov5-master/dataset/images/760526046_547e8b381f.jpg
+D:\Knowledge_distillation_Pruning_Yolov5-master/dataset/images/760568592_45a52c847f.jpg
+D:\Knowledge_distillation_Pruning_Yolov5-master/dataset/images/98391118_bdb1e80cce.jpg

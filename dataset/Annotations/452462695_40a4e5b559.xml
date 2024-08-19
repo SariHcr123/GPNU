@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bees image</folder>
+	<filename>452462695_40a4e5b559.jpg</filename>
+	<path>D:\datasets\hymenoptera_data\train\bees image\452462695_40a4e5b559.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bees</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>114</xmin>
+			<ymin>42</ymin>
+			<xmax>480</xmax>
+			<ymax>311</ymax>
+		</bndbox>
+	</object>
+</annotation>
